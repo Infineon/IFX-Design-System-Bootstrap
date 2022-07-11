@@ -67,7 +67,8 @@ yarn install
 Start Storybook in local dev mode, including file watchers to hot-reload on code change:
 
 ```bash
-yarn start
+npm run storybook-prepare
+npm run storybook-start
 ```
 
 ### Build Storybook
